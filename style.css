@@ -1,0 +1,9 @@
+* {
+  background-color: rgb(67, 59, 59);
+  color: white;
+}
+
+.plain-text {
+  font-size: 22px;
+  font: "Times New Roman", sans-serif;
+}
